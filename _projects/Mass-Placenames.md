@@ -20,6 +20,7 @@ Maps have long been used as a tool of colonialism, dividing up the world and dem
 </div>
 
 Cartographies of empire have been instrumental in the dispossession of Indigenous people. Truly decolonial mapping must go beyond anti-colonial mapping in seeking to reclaim plant-based, ancestral, Indigenous knowledge while also enacting the contemporary world-making practices of Indigenous and colonized people in the present.{% cite rose-redwood_decolonizing_2020 %} In fact, some of the most effective forms of decolonial mapping entails the creation of maps that are only intended to be seen by Indigenous people.{% cite leonard_putting_2021 %} A decolonial geography focuses on the reclamation of Indigenous ontologies of place that predate the colonial cartographic framing of Indigenous lands. Even some maps projects that strive to contest dominant understandings can end up reproducing the settler colonial project. This can be seen in projects that adhere to the official borders of the United States government, which ends up normalizing the colonial boundaries of space.{% cite hunt_every_2020 %} This project seeks to consider the complications inherent in making maps, and to provide maps that better reveal the Indigeneity of the landscape of Massachusetts.
+
 ---
 "In non-native communities, the production of Indian-themed spatial markers expresses a colonial ideology and physically marks out the consequences and legacies of anti-Indian spatial practices."{% cite barnd_native_2017 %} 
 ---
