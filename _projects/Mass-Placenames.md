@@ -5,6 +5,7 @@ description: Digital Humanities Project in Progress
 img: assets/img/12.jpg
 importance: 1
 related_publications: true
+category: work
 ---
 
 Maps have long been used as a tool of colonialism, dividing up the world and demarcating arbitrary borders. Maps have also been used by the colonial apparatus in the process of sustaining settler colonial geographies in North America. This can be seen for example in the mid-seventeenth century map of Massachusetts (below) that uses cartography to justify the new colonial borders. In this context, maps have been used as evidence of the ‘firsting’ and ‘lasting’ processes described by Jean O’Brien. Maps can demonstrate the apparent ‘lack’ of Indigenous people left, in what has been wielded as ‘proof’ that there are no longer any ‘real’ Indigenous people left. Much like the local literature explored by Jean M. O’Brien, maps were used in the process of removing Indigenous people from their ancestral lands. Maps have been used, alongside narratives, to demonstrate the ‘truth’ of the myth of the vanishing/disappeared Native. Cartography can be used to write Indigenous communities out of existence, in the sense that their absence from dominant mapping regimes constitutes an erasure. 
