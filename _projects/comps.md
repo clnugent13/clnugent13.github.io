@@ -5,5 +5,4 @@ description: Reading lists & summaries
 img: assets/img/6.jpg
 redirect: https://www.colleenlnugent.com/exams/
 importance: 3
-category: work
 ---
