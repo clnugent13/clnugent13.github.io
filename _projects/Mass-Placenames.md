@@ -18,6 +18,7 @@ Maps have long been used as a tool of colonialism, dividing up the world and dem
 <div class="caption">
     A 1665 map commissioned by the government of Massachusetts to justify the colony’s northern and southern boundaries. 
 </div>
+
 Cartographies of empire have been instrumental in the dispossession of Indigenous people. Truly decolonial mapping must go beyond anti-colonial mapping in seeking to reclaim plant-based, ancestral, Indigenous knowledge while also enacting the contemporary world-making practices of Indigenous and colonized people in the present. In fact, some of the most effective forms of decolonial mapping entails the creation of maps that are only intended to be seen by Indigenous people. A decolonial geography focuses on the reclamation of Indigenous ontologies of place that predate the colonial cartographic framing of Indigenous lands. Even some maps projects that strive to contest dominant understandings can end up reproducing the settler colonial project. This can be seen in projects that adhere to the official borders of the United States government, which ends up normalizing the colonial boundaries of space. This project seeks to consider the complications inherent in making maps, and to provide maps that better reveal the Indigeneity of the landscape of Massachusetts.
 
     “In non-native communities, the production of Indian-themed spatial markers expresses a colonial ideology and physically marks out the consequences and legacies of anti-Indian spatial practices.” 
@@ -36,10 +37,13 @@ In particular, this project seeks to explore the process of ‘inhabiting Indian
 
 For the purposes of this project, I am interested in comparing locations on the island of Martha’s Vineyard that all inhabit Indian-ness but for differing purposes. Specifically, I am interested in the cases of Chappaquiddick Island (ancestral home of the Chappaquiddick Wampanoag who have been striving to get their land back since the mid-nineteenth century) and Aquinnah (the ancestral home of the Aquinnah Wampanoag who maintain some of their ancestral lands and are one of two federally recognized branches of the Wampanoag Nation). I also include a map of the entire state of Massachusetts with place names that are Indigenous in origin to demonstrate the frequency of these place names in predominantly white spaces, however this is intended to be more exploratory than the case study of Martha’s Vineyard.
 
+---
+
 ## State Map
 
 <iframe width="700" height="600" allow="local-network-access; geolocation" title="Indigenous Placenames of Massachusetts" src="https://nu.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=7ce475ce134b4a6796586ac5bdea046b&theme=light&scroll=false&center=-71.71613720703017,42.26656047051537&scale=2311162.217155" ></iframe>
 
+---
 ## Marthas Vineyard Case Study
 
 The island of Martha’s Vineyard stands as a good case study because its boundaries are self-contained and it is a place with both predominantly white spaces with Indigenous place names and the use of an Indigenous place name by and for an Indigenous space. There are a variety of places on the island that fit the criteria of being predominantly white spaces using Indigenous place names, but for the purpose of this case study I will be comparing Chappaquiddick Island with Aquinnah. Aquinnah, which was formerly known as Gay Head, is the site of the Tribal Council for the Wampanoag Tribe of Aquinnah. Chappaquiddick Island is the ancestral home of the Chappaquiddick Wampanoag tribe, but the members of this tribe are no longer living on Chappaquiddick Island; many live across the water on the island of Martha’s Vineyard. 
@@ -89,6 +93,7 @@ The use of Indian-ness to describe the area of Aquinnah differs radically from t
 
 In the map, it appears as though official United States place names of Indigenous origin seem to be relegated to the periphery of the island. The center of the island is where the airport is located, and it seems as though the more built up areas are also along the periphery. There is also little overlap between the traditional Indigenous names and the U.S. place names using Indigenous words, highlighting the process of Inhabiting Indian-ness for justification of predominantly white settlement of land described by Barnd. 12 Another way to put it is the abundant use of Indigenous words to describe places (that are not the actual Indigenous names of these locations) represents white spaces inhabiting Indian-ness. One notes the spelling differences between the Indigenous spelling of “Tchepiaquidenet” and the settler spelling of “Chappaquiddick,” which is indicative of the way Indigenous forms of knowing are twisted to fit into the settler colonial project. The map is a visual accompaniment to this discussion of how the use of Indigenous place names can both reflect and contest the settler colonial landscape of the United States.
 
+---
 # Process
 ## Research Process
 I have lived most of my life in Massachusetts, and I only very recently became educated on how prevalent the practice of using Indigenous words for place names is in the state of Massachusetts. I became interested in the intersection between the myth of the “disappearing/vanished Native” and the widespread use of Indigenous place names.
