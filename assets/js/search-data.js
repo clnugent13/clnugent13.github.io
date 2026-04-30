@@ -451,12 +451,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -466,6 +461,11 @@ ninja.data = [{
           description: "Digital Humanities Project in Progress",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Mass-Placenames/";
+            },},{id: "projects-digital-adventures-of-ibn-battuta",
+          title: 'Digital Adventures of Ibn Battuta',
+          description: "Digital Humanities Project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/battuta/";
             },},{id: "projects-comprehensive-exams-2021",
           title: 'Comprehensive Exams 2021',
           description: "Reading lists &amp; summaries",
