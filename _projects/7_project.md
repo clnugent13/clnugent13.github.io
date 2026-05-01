@@ -51,35 +51,35 @@ Section: 25
 
 Total: 25
 
-#### Theory & Empire
-
-    Adas, Michael. Prophets of Rebellion: Millenarian Protest Movements against the European Colonial Order. Cambridge: Cambridge University Press, 1987.
-    Anderson, Benedict. Imagined Communities: Reflections on the Origin and Spread of Nationalism. New York: Verso, 2016.
-    Belmessous, Saliha. Empire by Treaty: Negotiating European Expansion. New York: Oxford University Press, 2015.
-    Burbank, Jane, and Frederick Cooper. Empires in World History: Power and the Politics of Difference. Princeton: Princeton University Press, 2011.
-    Bush, Barbara. Imperialism and Postcolonialism. London: Pearson, 2006.
-    Cooper, Frederick. Colonialism in Question: Theory, Knowledge, History. Berkeley: University of California Press, 2007.  
-    Cooper, Frederick and Ann Laura Stoler. Tensions of Empire: Colonial Cultures in a Bourgeois World. Berkeley: University of California Press, 1997.
-    Darwin, John. After Tamerlane: The Rise and Fall of Global Empires, 1405-2000. New York: Bloomsbury Press, 2009.
-    Driver, Felix. Imperial Cities: Landscape, Display and Identity. New York: Manchester University Press, 2003.  
-    Fieldhouse, D. Western Imperialism in the Middle East 1914-1958. New York: Oxford University Press, 2006.  
-    Karsh, Efraim. Islamic Imperialism: A History. New Haven: Yale University Press, 2006.  
-    Lenin, Vladimir. Imperialism, the Highest Stage of Capitalism: A Popular Outline. New York: International Publishers, 1939.
-    Osterhammel, Jürgen. Colonialism: A Theoretical Overview. Princeton: Ian Randle Publishers, 1997.  
-    Rice, Laura. Of Irony and Empire: Islam, the West, and the Transcultural Invention of Africa. Albany: State University of New York Press, 2007.
-    Said, Edward W. Orientalism. New York: Vintage, 1979.
-    Scott, James C. Domination and the Arts of Resistance: Hidden Transcripts. New Haven: Yale University Press, 1990.  
-    Scott, James C. Weapons of the Weak: Everyday Forms of Peasant Resistance. New Haven: Yale University Press, 1987.
-    Streets-Salter, Heather and Trevor Getz. Empires and Colonies in the Modern World: A Global Perspective. New York: Oxford University Press, 2015.
-    Wolfe, Patrick. Traces of History: Elementary Structures of Race. New York: Verso, 2016.
+#### Theory & Empire  
+* Adas, Michael. *Prophets of Rebellion: Millenarian Protest Movements against the European Colonial Order.* Cambridge: Cambridge University Press, 1987.
+* Anderson, Benedict. *Imagined Communities: Reflections on the Origin and Spread of Nationalism.* New York: Verso, 2016.
+* Belmessous, Saliha. *Empire by Treaty: Negotiating European Expansion.* New York: Oxford University Press, 2015.
+* Burbank, Jane, and Frederick Cooper. *Empires in World History: Power and the Politics of Difference.* Princeton: Princeton University Press, 2011.
+* Bush, Barbara. *Imperialism and Postcolonialism.* London: Pearson, 2006.
+* Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* Berkeley: University of California Press, 2007.
+* Cooper, Frederick and Ann Laura Stoler. *Tensions of Empire: Colonial Cultures in a Bourgeois World.* Berkeley: University of California Press, 1997.
+* Darwin, John. *After Tamerlane: The Rise and Fall of Global Empires, 1405-2000.* New York: Bloomsbury Press, 2009.
+* Driver, Felix. *Imperial Cities: Landscape, Display and Identity.* New York: Manchester University Press, 2003.
+* Fieldhouse, D. *Western Imperialism in the Middle East 1914-1958.* New York: Oxford University Press, 2006.
+* Karsh, Efraim. *Islamic Imperialism: A History.* New Haven: Yale University Press, 2006.
+* Lenin, Vladimir. *Imperialism, the Highest Stage of Capitalism: A Popular Outline.* New York: International Publishers, 1939.
+* Osterhammel, Jürgen. *Colonialism: A Theoretical Overview.* Princeton: Ian Randle Publishers, 1997.
+* Rice, Laura. *Of Irony and Empire: Islam, the West, and the Transcultural Invention of Africa.* Albany: State University of New York Press, 2007.
+* Said, Edward W. *Orientalism.* New York: Vintage, 1979.
+* Scott, James C. *Domination and the Arts of Resistance: Hidden Transcripts.* New Haven: Yale University Press, 1990.
+* Scott, James C. *Weapons of the Weak: Everyday Forms of Peasant Resistance.* New Haven: Yale University Press, 1987.
+* Streets-Salter, Heather and Trevor Getz. *Empires and Colonies in the Modern World: A Global Perspective.* New York: Oxford University Press, 2015.
+* Wolfe, Patrick. *Traces of History: Elementary Structures of Race.* New York: Verso, 2016.
 
 Section: 19
 
-Total: 44
-British Empire—General
+Total: 44  
 
-    Bayly, C.A. Imperial Meridian: The British Empire and the World, 1780-1830. London: Longman Group, 1989.
-    Black, Jeremy. The British Seaborne Empire. New Haven: Yale University Press, 2004.
+
+#### British Empire—General
+* Bayly, C.A. *Imperial Meridian: The British Empire and the World, 1780-1830.* London: Longman Group, 1989.
+* Black, Jeremy. *The British Seaborne Empire.* New Haven: Yale University Press, 2004.
     Burton, Antoinette. The Trouble with Empire: Challenges to Modern British Imperialism. Oxford: Oxford University Press, 2015.
     Darwin. John. The Empire Project: The Rise and Fall of the British World System. New York: Cambridge University Press, 2009.
     Darwin, John.“Roundtable: Imperial History by the Book: A Roundtable on John Darwin’s ‘The Empire Project.’”Journal of British Studies 54, 4 (2015):, 993-997.
@@ -91,10 +91,11 @@ British Empire—General
 
 Section: 11
 
-Total: 55
-Metropolitan Cultures & Attitudes
+Total: 55  
 
-    Beasley, Edward. Empire as the Triumph of Theory: Imperialism, Information, and the Colonial Society of 1868. New York: Routledge, 2005.  
+
+#### Metropolitan Cultures & Attitudes
+* Beasley, Edward. Empire as the Triumph of Theory: Imperialism, Information, and the Colonial Society of 1868. New York: Routledge, 2005.  
     Burton, Antoinette. At the Heart of the Empire: Indians and the Colonial Encounter in Late-Victorian Britain. Berkeley: University of California Press, 1998.
     Cannadine, David. Ornamentalism: How the British Saw their Empire. New York: Oxford University Press, 2001.
     Hall, Catherine and Sonya Rose. At Home With the Empire: Metropolitan Culture and the Imperial World. Cambridge: Cambridge University Press, 2006.
@@ -110,10 +111,11 @@ Metropolitan Cultures & Attitudes
 
 Section: 13
 
-Total: 68
-Gender
+Total: 68  
 
-    Ballantyne, Tony and Antoinette Burton. Moving Subjects: Gender, Mobility, and Intimacy in an Age of Global Empire. Urbana: University of Illinois Press, 2009.
+
+#### Gender
+* Ballantyne, Tony and Antoinette Burton. Moving Subjects: Gender, Mobility, and Intimacy in an Age of Global Empire. Urbana: University of Illinois Press, 2009.
     Clancy-Smith, Julia Ann, and Frances Gouda, Domesticating the Empire: Race, Gender, and Family Life in French and Dutch Colonialism (Charlottesville: University Press of Virginia, 1998).
     Levine, Philippa. Gender and Empire. New York: Oxford University Press, 2004.
     Levine, Philippa. Prostitution, Race, and Politics: Policing Venereal Disease in the British Empire. London: Routledge, 2003.
@@ -124,10 +126,11 @@ Gender
 
 Section: 8
 
-Total: 76
-South Asia
+Total: 76. 
 
-    Bose, Sugata and Ayesha Jalal. Modern South Asia: History, Culture, Political Economy. New York: Routledge, 1998.
+
+#### South Asia
+* Bose, Sugata and Ayesha Jalal. Modern South Asia: History, Culture, Political Economy. New York: Routledge, 1998.
     Chakrabarty, Dipesh. Provincializing Europe: Postcolonial Thought and Historical Difference. Princeton: Princeton University Press, 2000.
     Chakrabarty, Dipesh, Rochona Majumdar, and Andrew Sartori, eds. From the Colonial to the Postcolonial: India and Pakistan in Transition. New York: Oxford University Press, 2007.
     Goswami, Manu. Producing India: From Colonial Economy to National Space (Chicago: University of Chicago Press, 2004).
@@ -143,10 +146,11 @@ South Asia
 
 Section: 13
 
-Total: 89
-Late Colonial & Decolonization
+Total: 89  
 
-    Brendon, Piers. The Decline and Fall of the British Empire, 1781-1997. New York: Knopf, 2008.
+
+#### Late Colonial & Decolonization
+* Brendon, Piers. The Decline and Fall of the British Empire, 1781-1997. New York: Knopf, 2008.
     Chin, Rita. The Crisis of Multiculturalism in Europe: A History (Princeton: Princeton University Press, 2017).
     Groß-Fitzgibbon, Benjamin, Imperial Endgame: Britain’s Dirty Wars and the End of Empire. New York: Palgrave MacMillan, 2011.
     Ittmann, Karl. A Problem of Great Importance: Population, Race, and Power in the British Empire. Berkeley: University of California Press, 2013.
