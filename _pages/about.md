@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centers for Digital Scholarship</p>
-    <p>Northeastern University</p>
     <p>Boston, MA</p>
 
 ---
