@@ -19,39 +19,39 @@ Colleen Louise Nugent McLean, Northeastern University History Department, Qualif
 
 ## Modern Britain, the British Empire, & World History
 *All summaries written for personal use*
-### World History
+#### World History  
+
 * [Abu-Ludhod, Janet. *Before European Hegemony: The World System, 1250–1350.* New York: Oxford University Press, 1989.](https://clnugent13.github.io/assets/comps/abu-lughod-european.pdf)
 * [Ballantyne, Tony, and Antoinette Burton. *Bodies in Contact: Rethinking Colonial Encounters in World History.* Champaign: University of Illinois Press, 2005.](https://clnugent13.github.io/assets/comps/burton-ballantyne-bodies.pdf)
-* Bose, Sugata. *A Hundred Horizons: The Indian Ocean in the Age of Global Empire.* Cambridge: Harvard University Press, 2006.
-
-    Bose, Sugata. A Hundred Horizons: The Indian Ocean in the Age of Global Empire. Cambridge: Harvard University Press, 2006.
-    Christian, David. Maps of Time: An Introduction to Big History. Berkeley: University of California Press, 2004.
-    Crosby, Alfred W. Ecological Imperialism: The Biological Expansion of Europe, 900-1900. New York: Cambridge University Press, 1986.
-    Diamond, Jared. Guns, Germs, and Steel: The Fates of Human Societies. New York: Vintage, 1998.
-    Gunder Frank, A. ReORIENT: Global Economy in the Asian Age. Berkeley: University of California Press, 1998.
-    Ho, Engseng. The Graves of Tarim: Genealogy and Mobility across the Indian Ocean. Berkeley: University of California Press, 2006.
-    Hodgson, Marshall. Re-thinking World History: Essays on Europe, Islam and World History. New York: Cambridge University Press, 1993.
-    Lake, Marilyn and Henry Reynolds, Drawing the Global Colour Line: White Men’s Countries and the International Challenge of Racial Equality. New York: Cambridge University Press, 2008.
-    Landes, David. The Wealth and Poverty of Nations: Why Some are So Rich and Some So Poor. New York: W.W. Norton, 1998.
-    Manning, Patrick. Navigating World History: Historians Create a Global Past. New York: Palgrave MacMillan, 2003.
-    McNeill, John. Something New Under the Sun: An Environmental History of the Twentieth Century World. New York: W.W. Norton, 2001.
-    McNeil, John R. Mosquito Empires: Ecology and War in the Greater Caribbean, 1620-1914. New York: Cambridge University Press, 2003.
-    McNeill, William. The Rise of the West: A History of the Human Community. Honolulu: University of Hawaii, 1990.
-    Mintz, Sidney. Sweetness and Power: The Place of Sugar in Modern History. New York: Viking Penguin, 1985.
-    Moses, Dirk A. Empire, Colony, Genocide: Conquest, Occupation, and Subaltern Resistance in World History (New York: Berghahn Books, 2010).
-    Northrop, Douglas. A Companion to World History. Hoboken: Wiley Blackwell, 2012.
-    Parthasarathi, Prasannan. Why Europe Grew Rich and Asia Did Not: Global Economic Divergence 1600-1850. Cambridge: Cambridge University Press, 2011.
-    Pang, Alex Soojung-Kim. Empire and the Sun: Victorian Solar Eclipse Expeditions (Stanford: Stanford University Press, 2002).
-    Pearson, M.N. The Indian Ocean (New York: Routledge, 2003).
-    Pomeranz, Kenneth. The Great Divergence: China, Europe, and the Making of the Modern World Economy. Princeton: Princeton University Press, 2001.
-    Streets-Salter, Heather. World War One in Southeast Asia: Colonialism and Anticolonialism in an Era of Global Conflict. New York: Oxford University Press, 2017.
-    Wallerstein, Immanuel. Modern World System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century. Berkeley: University of California Press, 2011.
-    Wright, Donald. The World and a Very Small Place in Africa: A History of Globalization in Niumi, the Gambia. Armonk: M.E. Sharpe, 2010.
+* [Bose, Sugata. *A Hundred Horizons: The Indian Ocean in the Age of Global Empire.* Cambridge: Harvard University Press, 2006.](https://clnugent13.github.io/assets/comps/bose-horizons.pdf)
+* [Christian, David. *Maps of Time: An Introduction to Big History.* Berkeley: University of California Press, 2004.](https://clnugent13.github.io/assets/comps/christian-time.pdf)
+* [Crosby, Alfred W. *Ecological Imperialism: The Biological Expansion of Europe, 900–1900.* New York: Cambridge University Press, 1986.](https://clnugent13.github.io/assets/comps/crosby-ecological.pdf)
+* [Diamond, Jared. *Guns, Germs, and Steel: The Fates of Human Societies.* New York: Vintage, 1998.](https://clnugent13.github.io/assets/comps/diamond-guns.pdf)
+* [Gunder Frank, A. *ReORIENT: Global Economy in the Asian Age.* Berkeley: University of California Press, 1998.](https://clnugent13.github.io/assets/comps/gunder-reorient.pdf)
+* [Ho, Engseng. *The Graves of Tarim: Genealogy and Mobility across the Indian Ocean.* Berkeley: University of California Press, 2006.](https://clnugent13.github.io/assets/comps/ho-graves.pdf)
+* [Hodgson, Marshall. *Re-thinking World History: Essays on Europe, Islam and World History.* New York: Cambridge University Press, 1993.](https://clnugent13.github.io/assets/comps/hodgson-rethinking.pdf)
+* [Lake, Marilyn, and Henry Reynolds. *Drawing the Global Colour Line: White Men's Countries and the International Challenge of Racial Equality.* New York: Cambridge University Press, 2008.](https://clnugent13.github.io/assets/comps/lake-reynolds-drawing.pdf)
+* [Landes, David. *The Wealth and Poverty of Nations: Why Some are So Rich and Some So Poor.* New York: W.W. Norton, 1998.](https://clnugent13.github.io/assets/comps/landes-wealth.pdf)
+* [Manning, Patrick. *Navigating World History: Historians Create a Global Past.* New York: Palgrave MacMillan, 2003.](https://clnugent13.github.io/assets/comps/manning-navigating.pdf)
+* [McNeill, John. *Something New Under the Sun: An Environmental History of the Twentieth Century World.* New York: W. W. Norton, 2001.](https://clnugent13.github.io/assets/comps/mcneil-new-sun.pdf)
+* [McNeill, John R. *Mosquito Empires: Ecology and War in the Great Caribbean, 1620–1914.* New York: Cambridge University Press, 2003.](https://clnugent13.github.io/assets/comps/mcneil-mosquitos.pdf)
+* [McNeill, William. *The Rise of the West: A History of the Human Community.* Honolulu: University of Hawaii, 1990.](https://clnugent13.github.io/assets/comps/mcneill-rise-west.pdf)
+* [Mintz, Sidney. *Sweetness and Power: The Place of Sugar in Modern History.* New York: Viking Penguin, 1985.](https://clnugent13.github.io/assets/comps/mintz-sweetness.pdf)
+* [Moses, Dirk. A. *Empire, Colony, Genocide: Conquest, Occupation, and Subaltern Resistance in World History.* New York: Berghahn Books, 2010.](https://clnugent13.github.io/assets/comps/moses-empire.pdf)
+* [Northrup, Douglas. *A Companion to World History.* Hoboken: Wiley Blackwell, 2012.](https://clnugent13.github.io/assets/comps/northrup-companion.pdf)
+* [Parthasarathi, Prasannan. *Why Europe Grew Rich and Asia Did Not: Global Economic Divergence, 1600–1850.* Cambridge: Cambridge University Press, 2011.](https://clnugent13.github.io/assets/comps/parthasarathi-divergence.pdf)
+* [Pang, Alex Soojung-Kim. *Empire and the Sun: Victorian Solar Eclipse Expeditions.* Stanford: Stanford University Press, 2002.](https://clnugent13.github.io/assets/comps/pang-sun.pdf)
+* [Pearson, M. N. *The Indian Ocean.* New York: Routledge, 2003.](https://clnugent13.github.io/assets/comps/pearson-indian.pdf)
+* [Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy.* Princeton: Princeton University Press, 2001.](https://clnugent13.github.io/assets/comps/pomeranz-divergence.pdf)
+* [Streets-Salter, Heather. *World War One in Southeast Asia: Colonialism and Anticolonialism in an Era of Global Conflict.* New York: Oxford University Press, 2017.](https://clnugent13.github.io/assets/comps/salter-ww1.pdf)
+* [Wallerstein, Immanuel. *Modern World System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century.* Berkeley: University of California Press, 2011.](https://clnugent13.github.io/assets/comps/wallerstein-modern.pdf)
+* [Wright, Donald. *The World and a Very Small Place in Africa: A History of Globalization in Niumi, the Gambia.* Armonk: M. E. Sharpe, 2010.](https://clnugent13.github.io/assets/comps/wright-africa.pdf)
 
 Section: 25
 
 Total: 25
-Theory & Empire
+
+#### Theory & Empire
 
     Adas, Michael. Prophets of Rebellion: Millenarian Protest Movements against the European Colonial Order. Cambridge: Cambridge University Press, 1987.
     Anderson, Benedict. Imagined Communities: Reflections on the Origin and Spread of Nationalism. New York: Verso, 2016.
