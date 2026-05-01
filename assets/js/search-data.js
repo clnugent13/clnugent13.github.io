@@ -420,7 +420,7 @@ ninja.data = [{
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/7_project.md/";
             },},{id: "projects-indigenous-placenames-of-massachusetts",
           title: 'Indigenous Placenames of Massachusetts',
           description: "Digital Humanities Project in Progress",
