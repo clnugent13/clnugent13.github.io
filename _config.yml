@@ -279,14 +279,14 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Nugent McLean]
+  last_name: [Nugent]
   first_name: [Colleen, L.]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: "papers.bib, references.bib"
+  bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
