@@ -46,8 +46,18 @@ For the purposes of this project, I am interested in comparing locations on the 
 
 <iframe width="700" height="600" allow="local-network-access; geolocation" title="Indigenous Placenames of Massachusetts" src="https://nu.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=7ce475ce134b4a6796586ac5bdea046b&theme=light&scroll=false&center=-71.71613720703017,42.26656047051537&scale=2311162.217155" ></iframe>
 
+### To Navigate
+
+To explore this map, click on a point to see the location’s name and the tribe of origin, according to William Bright’s dictionary of Indigenous place names. The points are color coded by tribe of origin. The map intentionally does not include the state boundaries demarcated by the United States government. This map is more exploratory and helps demonstrate the prevalence of Indigenous-origin place names in the state of Massachusetts. This map helps demonstrate the diversity of tribes living within the borders of Massachusetts, as well as the frequency of Indigenous place names to describe predominantly white areas.
+
 ---
-## Marthas Vineyard Case Study
+# Marthas Vineyard Case Study
+
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Indigenous Placenames in Marthas Vineyard" src="https://nu.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=585d08774d3b42feb62840e0f2337943&theme=light&heading=true&legend=true&scroll=false&center=-70.5955656244646,41.39960768486043&scale=288895.277144" ></iframe>
+
+### To Navigate
+
+To explore this map, click on a point to see the location’s name. The points are color coded by whether the place is officially recognized by the United States Government. The map intentionally does not include the state boundaries demarcated by the United States government. 
 
 The island of Martha’s Vineyard stands as a good case study because its boundaries are self-contained and it is a place with both predominantly white spaces with Indigenous place names and the use of an Indigenous place name by and for an Indigenous space. There are a variety of places on the island that fit the criteria of being predominantly white spaces using Indigenous place names, but for the purpose of this case study I will be comparing Chappaquiddick Island with Aquinnah. Aquinnah, which was formerly known as Gay Head, is the site of the Tribal Council for the Wampanoag Tribe of Aquinnah. Chappaquiddick Island is the ancestral home of the Chappaquiddick Wampanoag tribe, but the members of this tribe are no longer living on Chappaquiddick Island; many live across the water on the island of Martha’s Vineyard. 
 
