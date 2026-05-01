@@ -15,7 +15,7 @@ profile:
 
 ---
 
-My name is Colleen Nugent McLean and I am the Centers for Digital Scholarship Coordinator and the Project Manager of Digital Humanities Now.
+My name is **Colleen Nugent McLean** and I am the [Centers for Digital Scholarship](https://cds.library.northeastern.edu/) Coordinator and the Project Manager of [Digital Humanities Now](https://digitalhumanitiesnow.org/).
 
 I have my PhD in World History from Northeastern University. My research focuses on colonial interaction with Islamic cultures, and how former imperial powers, specifically Britain and France, have reacted to the influx of Muslim migrants from their former colonies.
 
