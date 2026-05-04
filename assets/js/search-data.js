@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
-          description: "with background image",
+          description: "Reading lists &amp; summaries",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-indigenous-placenames-of-massachusetts",
