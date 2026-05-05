@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Comprehensive Exams 2021
+title: Visualizing French Muslims
 description: Reading lists & summaries
 img: assets/img/6.jpg
-redirect: https://www.colleenlnugent.com/exams/
+redirect: https://www.colleenlnugent.com/frenchmuslims/
 importance: 3
 category: work
 ---
