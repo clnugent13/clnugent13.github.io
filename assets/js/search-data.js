@@ -424,11 +424,11 @@ ninja.data = [{
           description: "Digital Humanities Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battuta/";
-            },},{id: "projects-comprehensive-exams-2021",
-          title: 'Comprehensive Exams 2021',
+            },},{id: "projects-visualizing-french-muslims",
+          title: 'Visualizing French Muslims',
           description: "Reading lists &amp; summaries",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/comps/";
+              window.location.href = "/projects/french-muslims/";
             },},{
         id: 'social-cv',
         title: 'CV',
