@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: Comprehensive Exams!
 description: Reading lists & summaries
 img: assets/img/4.jpg
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-# Comprehensive Exams 2021
+# Comprehensive Exams 2022
 
 Colleen Louise Nugent McLean, Northeastern University History Department, Qualifying Exams June 17th, 2022
 
